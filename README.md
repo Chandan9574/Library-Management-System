@@ -61,9 +61,3 @@ A desktop-based Library Management System built using **Java and Swing** that al
 - Maintain transaction history
 - Improve UI design and layout
 
----
-
-## 👨‍💻 Author
-
-Chandan Kumar  
-B.Tech CSE, NIT Mizoram
